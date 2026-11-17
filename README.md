@@ -1,5 +1,5 @@
 
-### AI & LLM Stack
+### Stack
 
 | Category | Technologies & Skills |
 |:---|:---|
