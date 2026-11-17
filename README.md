@@ -7,3 +7,12 @@
 | **LLM Tools** | [![LM Studio](https://img.shields.io/badge/LM_Studio-202020?style=flat)](https://lmstudio.ai/) [![llama.cpp](https://img.shields.io/badge/llama.cpp-222222?style=flat)](https://github.com/ggml-org/llama.cpp) [![Axolotl](https://img.shields.io/badge/Axolotl-4B0082?style=flat)](https://github.com/axolotl-ai-cloud/axolotl) [![LLaMA Factory](https://img.shields.io/badge/LLaMA_Factory-FF6F00?style=flat)](https://github.com/hiyouga/LlamaFactory) [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit) |
 | **Agent Engineering** | ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat) [![MCP](https://img.shields.io/badge/MCP-222222?style=flat)](https://modelcontextprotocol.io/) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6366F1?style=flat) ![Model Routing](https://img.shields.io/badge/Model_Routing-4338CA?style=flat) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-6D28D9?style=flat) ![Context Engineering](https://img.shields.io/badge/Context_Engineering-0D9488?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0891B2?style=flat) |
 | **LLM Systems** | ![KV Cache](https://img.shields.io/badge/KV_Cache-374151?style=flat) ![Prefix Caching](https://img.shields.io/badge/Prefix_Caching-374151?style=flat) ![Token Streaming](https://img.shields.io/badge/Token_Streaming-374151?style=flat) |
+| **Languages ** | ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) |
